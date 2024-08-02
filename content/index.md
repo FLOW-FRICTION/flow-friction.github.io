@@ -1,8 +1,4 @@
 ---
-title: Welcome to my Hood
+title: Startseite
 ---
-
-Hier gibt es vieles zu sehen. Zum Beispiel: Vermeiden Sie es [[Graue Haare]] zu bekommen. 
-
-
-
+Willkommen. Das ist meine selbst erschaffene Enzyklopädie. Hier gibt es so einiges zu finden. Schauen Sie sich einfach mal um. 
