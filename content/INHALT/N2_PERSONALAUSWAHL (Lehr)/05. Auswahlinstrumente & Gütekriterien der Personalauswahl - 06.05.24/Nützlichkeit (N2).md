@@ -1,0 +1,3 @@
+###### 20. Wann ist ein diagnostisches Instrument nützlich?
+
+Dieses Kriterium umfasst zwei Aspekte, nämlich die ab- solute und die relative Nützlichkeit (Lienert & Raatz, 1994). Ein Verfahren hat eine absolute Nützlichkeit, wenn dadurch ein Merkmal erfasst wird, das für den Anwender des Auswahlverfahrens von Bedeutung ist. Die Frage der absoluten Nützlichkeit hängt also immer vom Standpunkt des Anwenders ab. Da es im vorliegenden Zusammenhang um die Personalauswahl von Organisationen geht, spielt hier die Beurteilung der Nützlichkeit aus der Sicht der Organisation eine entscheidende Rolle. Ein Verfahren hat für einen Anwender relative Nützlichkeit, wenn es besser und mit geringeren Kosten als ein anderes Verfahren ein für ihn relevantes Merkmal erfasst

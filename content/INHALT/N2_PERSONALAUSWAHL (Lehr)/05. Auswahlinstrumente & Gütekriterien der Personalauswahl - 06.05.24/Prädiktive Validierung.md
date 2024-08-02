@@ -1,0 +1,3 @@
+ - Wenn  Prädiktor zeitlich deutlich vor  Kriterium erfasst wurde und sich eine bedeutsame Korrelation zwischen dem Prädiktor und dem Kriterium zeigt = präd. Validierung
+ - Diese sog. Vorhersagevalidität ist umso höher, je höher die Korrelation zwischen dem Prädiktor und dem Kriterium ist
+ - Vorhersagevalidität bedeutet, dass man aus dem Abschneiden bei einem Prädiktorinstrument auf den späteren Erfolg im Kriteriumsbereich schließen kann bzw. dass man aus dem Prädiktor vor der Bewährung den **späteren Erfolgsgrad** in der eigentlichen Bewährungssituation prognostizieren kann
