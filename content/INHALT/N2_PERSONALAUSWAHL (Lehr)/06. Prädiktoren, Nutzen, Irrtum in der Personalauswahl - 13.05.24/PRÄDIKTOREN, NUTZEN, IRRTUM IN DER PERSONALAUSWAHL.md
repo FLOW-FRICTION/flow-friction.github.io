@@ -26,7 +26,7 @@ Nerdinger, Blickle & Schaper (2019). Arbeits- und Organisationspsychologie, Kp. 
 
 ###### 2. Warum ist es sinnvoll, multimodale Auswahlprozeduren einzusetzen? 
 >[!info]
-Modalitäten stellen jeweils unterschiedliche Aspekte der Person in den Vordergrund
+> Modalitäten stellen jeweils unterschiedliche Aspekte der Person in den Vordergrund
 - [[Simulationsorientierte Auswahlverfahren]]
 	- ![[Simulationsorientierte Auswahlverfahren#^69b42a]]
 - [[Biographieorientierte Auswahlverfahren]]
