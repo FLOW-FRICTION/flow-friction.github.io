@@ -11,6 +11,7 @@ anki: true
 
 # AUFTAKT N2
 
+![[Pasted image 20240803003043.png]]
 
 Zwei Kategorien:
 	Assessment-Center (Einstellen von Mitarbeitern)
